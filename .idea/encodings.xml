@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/CImpresora.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/CPL.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/CamaraActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/Configuracion.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/CopyOftrasmisionDatos.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/DBHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/Filtrado.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/Globales.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/Input.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/InputCamposGenerico.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/IntentIntegrator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/Lectura.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/MensajeEspecial.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/PantallaAnomalias.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/Serializacion.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/TodasLasLecturas.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/TomaDeLecturas.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/TomaDeLecturasArgentina.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/TomaDeLecturasColombia.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/TomaDeLecturasComapaTampico.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/TomaDeLecturasElectricaribe.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/TomaDeLecturasGenerica.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/TomaDeLecturasPadre.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/TomaDeLecturasPanama.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/TransmisionesPadre.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/enruta/sistole_gen/trasmisionDatos.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
