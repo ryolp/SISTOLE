@@ -34,6 +34,8 @@ import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.os.Environment;
 import android.os.Handler;
+import androidx.fragment.app.Fragment;
+import androidx.viewpager.widget.ViewPager;
 //import android.support.v4.app.Fragment;
 //import android.support.v4.app.FragmentActivity;
 //import android.support.v4.view.ViewPager;
@@ -713,6 +715,7 @@ public class Main extends FragmentActivity implements TabListener {
 	protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 		Bundle bu_params;
 		BluetoothAdapter mBluetoothAdapter = BluetoothAdapter.getDefaultAdapter();
+
 		switch(requestCode){
 			case EXPORTAR:
 				if (data==null) {
@@ -805,6 +808,8 @@ public class Main extends FragmentActivity implements TabListener {
 				break;
 			}
 		}
+
+		super.onActivityResult(requestCode, resultCode, data);
 	}
 	
     private void mensajeOK(String ls_mensaje){
